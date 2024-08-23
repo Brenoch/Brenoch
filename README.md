@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/Brenoch)
 
 
-**dark mode**
-(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to) 
-
-
