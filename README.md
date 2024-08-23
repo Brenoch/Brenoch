@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Olá 👋, sou Breno Chaves</h1>
+<h1 align="center">Hi 👋, sou Breno Chaves</h1>
 <h3 align="center">Backend Developer</h3>
 
 - 🌱 I'm currently **studying for a degree in software engineering.**
