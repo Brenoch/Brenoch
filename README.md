@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Brenoch/Brenoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Olá 👋, sou Breno Chaves</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🌱 
-I'm studying for a degree in software engineering.
+<br>
+- 🌱 I'm studying for a degree in software engineering. <br>
+- 📫 How to reach me: breno_chaves21@gmail.com 
 
 <h3 align="left">Contact:</h3>
 <p align="left">
