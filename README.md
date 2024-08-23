@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Olá 👋, sou Breno Chaves</h1>
 <h3 align="center">Desenvolvedor Backend</h3>
 
-- 🌱 Atualmente estou estudando **Estou estudando para me formar em engenharia de software.**
+- 🌱 Atualmente **Estou estudando para me formar em engenharia de software.**
 
 - 📫 Como entrar em contato comigo **breno_chaves21@gmail.com**
 
