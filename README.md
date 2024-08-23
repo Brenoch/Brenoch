@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Backend Developer</h3>
 
 - 🌱 
-I'm studying for a degree in software engineering.**
+I'm studying for a degree in software engineering.
 
 <h3 align="left">Contact:</h3>
 <p align="left">
