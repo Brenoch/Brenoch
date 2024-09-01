@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently **studying for a degree in software engineering.**
 
-- 📫 Reach me at **breno_chaves21@gmail.com**
+- 📫 Reach me at **breno_chaves21@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
