@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Breno Chaves</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 - 🌱 I'm currently **studying for a degree in software engineering.**
 
