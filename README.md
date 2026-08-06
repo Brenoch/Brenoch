@@ -32,7 +32,6 @@
 ## 🌐 Contato
 
 - linkedin.com/in/brenochaves-
-- github.com/Brenoch
 - Email: breno_21@icloud.com
 
 > Stay hungry, stay foolish. — Steve Jobs
