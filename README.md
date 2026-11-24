@@ -14,7 +14,7 @@
 - **Objetivo:** Conquistar meu primeiro estágio e evoluir com projetos reais.
 
 ## 🛠️ Tecnologias
-
+.
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
